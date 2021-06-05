@@ -6,7 +6,7 @@
 
 */
 
-public class _20210605_KAKAO2021_신규아이디추천 {
+public class _20210606_KAKAO2021_신규아이디추천 {
 	public String solution(String new_id) {
 		String answer = "";
 
